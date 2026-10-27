@@ -1,0 +1,8 @@
+[MAIN]
+ignore=tests
+
+[MESSAGES CONTROL]
+disable=missing-module-docstring
+
+[FORMAT]
+max-line-length=100

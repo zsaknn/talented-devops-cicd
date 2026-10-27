@@ -1,0 +1,1 @@
+"""Talented DevOps mikroservisi."""
