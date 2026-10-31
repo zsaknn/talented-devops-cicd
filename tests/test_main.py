@@ -10,7 +10,7 @@ client = TestClient(main.app)
 def test_root_returns_service_name():
     resp = client.get("/")
     assert resp.status_code == 200
-    assert resp.json()["service"] == "talented-devops"
+    assert resp.json()["service"] == "yanlis-isim"
 
 
 def test_version_endpoint():
